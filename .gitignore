@@ -28,3 +28,4 @@ media/
 # Others
 *.swp
 .DS_Store
+pyrightconfig.json
